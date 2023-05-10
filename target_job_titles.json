@@ -1,0 +1,13 @@
+{"levels":[
+    { "level":"Principal"},
+    { "level":"Staff"},
+    { "level":"Senior"},
+    { "level":"Senior Staff"},
+    { "level":"Senior Advanced"}],
+"functions":[
+    { "function":"Machine Learning Engineer"},
+    { "function":"Data Scientist"},
+    { "function":"Computer Vision Scientist"},
+    { "function":"Research Engineer"},
+    { "function":"Research Scientist"}],
+}
