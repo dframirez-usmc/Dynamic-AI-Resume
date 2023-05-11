@@ -1,13 +1,32 @@
 {"levels":[
+    { "level":"Senior"},   
     { "level":"Principal"},
-    { "level":"Staff"},
-    { "level":"Senior"},
-    { "level":"Senior Staff"},
-    { "level":"Senior Advanced"}],
+    { "level":"Staff"}],
+"internships":[
+    { "internship":"PhD"},
+    { "internship":"Graduate"},
+    { "internship":"Summer"},
+    { "internship":"Intern"}],
 "functions":[
-    { "function":"Machine Learning Engineer"},
-    { "function":"Data Scientist"},
-    { "function":"Computer Vision Scientist"},
-    { "function":"Research Engineer"},
-    { "function":"Research Scientist"}],
+    { "function":"AI"},
+    { "function":"Machine Learning"},
+    { "function":"Data Science"},
+    { "function":"Data"},
+    { "function":"Computer Vision"},
+    { "function":"Research"},
+    { "function":"Autonomy"},
+    { "function":"Autonomous Systems"}],
+"qualifiers":[
+    { "qualifier":"Engineering"},
+    { "qualifier":"Research"}],
+"roles":[
+    { "role":"Engineer"},
+    { "role":"Scientist"},
+    { "role":"Researcher"},
+    { "role":"Manager"},
+    { "role":"Intern"}],
+"bad_combos":[
+    {"bad_combo":"Science Scientist"},
+    {"bad_combo":"Engineering Engineer"},
+    {"bad_combo":"Data Engineer"}],
 }
