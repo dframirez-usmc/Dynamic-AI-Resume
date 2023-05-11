@@ -1,5 +1,7 @@
 {"levels":[
-    { "level":"Senior"},   
+    { "level":"Senior"},
+    { "level":"Chief"},
+    { "level":"Lead"},
     { "level":"Principal"},
     { "level":"Staff"}],
 "internships":[
