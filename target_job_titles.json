@@ -9,15 +9,16 @@
     { "internship":"Graduate"},
     { "internship":"Summer"},
     { "internship":"Intern"}],
-"functions":[
-    { "function":"AI"},
-    { "function":"Machine Learning"},
-    { "function":"Data Science"},
-    { "function":"Data"},
-    { "function":"Computer Vision"},
-    { "function":"Research"},
-    { "function":"Autonomy"},
-    { "function":"Autonomous Systems"}],
+"topics":[
+    { "topic":"AI"},
+    { "topic":"Autonomy"},
+    { "topic":"Autonomous Systems"}],
+    { "topic":"Computer Vision"},
+    { "topic":"Data Science"},
+    { "topic":"Data"},
+    { "topic":"Geospatial Imagery"}
+    { "topic":"Machine Learning"},
+    { "topic":"Surveillance"}],
 "qualifiers":[
     { "qualifier":"Engineering"},
     { "qualifier":"Research"}],
@@ -30,5 +31,6 @@
 "bad_combos":[
     {"bad_combo":"Science Scientist"},
     {"bad_combo":"Engineering Engineer"},
-    {"bad_combo":"Data Engineer"}],
+    {"bad_combo":"Data Engineer"},
+    {"bad_combo":""}],
 }
